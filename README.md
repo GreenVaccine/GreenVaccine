@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mysticblackmask&label=Profile%20views&color=brightgreen&style=flat" alt="mysticblackmask" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GreenVaccine&label=Profile%20views&color=brightgreen&style=flat" alt="GreenVaccine" /> </p>
 
 - ⚡ Fun fact **I love mystic development🖤**
 
@@ -25,9 +25,9 @@
 <p align="left">
   
 <a href="https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruprasad-dev.netlify.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mysticblackmask." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mysticblackmask" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mysticblackmask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mysticblackmask" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/mysticblackmask?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/GreenVaccine." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GreenVaccine" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/GreenVaccine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="GreenVaccine" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/GreenVaccine?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
 </p>
 
 ---
@@ -59,12 +59,12 @@
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysticblackmask&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="mysticblackmask" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GreenVaccine&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="GreenVaccine" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mysticblackmask&show_icons=true&locale=en&theme=midnight-purple" alt="mysticblackmask" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=GreenVaccine&show_icons=true&locale=en&theme=midnight-purple" alt="GreenVaccine" /></p>
 
 
-<p align="left"> <a href="https://github.com/mysticblackmask/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mysticblackmask&theme=midnight-purple" alt="mysticblackmask" /></a> </p>
+<p align="left"> <a href="https://github.com/GreenVaccine/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GreenVaccine&theme=midnight-purple" alt="GreenVaccine" /></a> </p>
 
-![](https://github-contributor-stats.vercel.app/api?username=mysticblackmask&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GreenVaccine&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
