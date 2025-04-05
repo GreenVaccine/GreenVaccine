@@ -21,15 +21,6 @@
 - 📫 How to reach me **blackmask0209@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruprasad-dev.netlify.app/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/GreenVaccine." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GreenVaccine" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/GreenVaccine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="GreenVaccine" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/GreenVaccine?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### WEB Languages and Tools:
